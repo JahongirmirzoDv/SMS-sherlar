@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.chsd.smssherlar.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_homeFragment_to_sevgiragment"
+            app:destination="@id/sevgirfagment" />
+        <action
+            android:id="@+id/action_homeFragment_to_soginchFragment"
+            app:destination="@id/soginchFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_tabrikFragment"
+            app:destination="@id/tabrikFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_parentsFragment"
+            app:destination="@id/parentsFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_friendsFragment"
+            app:destination="@id/friendsFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_funnyFragment"
+            app:destination="@id/funnyFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_newFragment"
+            app:destination="@id/newFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_likeFragment"
+            app:destination="@id/likeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/sevgirfagment"
+        android:name="com.chsd.smssherlar.Sevgiragment"
+        android:label="fragment_sevgiragment"
+        tools:layout="@layout/fragment_sevgiragment" />
+    <fragment
+        android:id="@+id/soginchFragment"
+        android:name="com.chsd.smssherlar.SoginchFragment"
+        android:label="fragment_soginch"
+        tools:layout="@layout/fragment_soginch" />
+    <fragment
+        android:id="@+id/tabrikFragment"
+        android:name="com.chsd.smssherlar.TabrikFragment"
+        android:label="fragment_tabrik"
+        tools:layout="@layout/fragment_tabrik" />
+    <fragment
+        android:id="@+id/parentsFragment"
+        android:name="com.chsd.smssherlar.ParentsFragment"
+        android:label="fragment_parents"
+        tools:layout="@layout/fragment_parents" />
+    <fragment
+        android:id="@+id/friendsFragment"
+        android:name="com.chsd.smssherlar.FriendsFragment"
+        android:label="fragment_friends"
+        tools:layout="@layout/fragment_friends" />
+    <fragment
+        android:id="@+id/funnyFragment"
+        android:name="com.chsd.smssherlar.FunnyFragment"
+        android:label="fragment_funny"
+        tools:layout="@layout/fragment_funny" />
+    <fragment
+        android:id="@+id/newFragment"
+        android:name="com.chsd.smssherlar.NewFragment"
+        android:label="fragment_new"
+        tools:layout="@layout/fragment_new" />
+    <fragment
+        android:id="@+id/likeFragment"
+        android:name="com.chsd.smssherlar.LikeFragment"
+        android:label="fragment_like"
+        tools:layout="@layout/fragment_like" />
+</navigation>

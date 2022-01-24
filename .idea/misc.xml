@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/anp/SMSSherlar/app/src/main/res/drawable/back.xml" value="0.25493421052631576" />
+        <entry key="..\:/anp/SMSSherlar/app/src/main/res/drawable/card_one.xml" value="0.25493421052631576" />
+        <entry key="..\:/anp/SMSSherlar/app/src/main/res/drawable/card_two.xml" value="0.25493421052631576" />
+        <entry key="..\:/anp/SMSSherlar/app/src/main/res/drawable/item.xml" value="0.25493421052631576" />
+        <entry key="..\:/anp/SMSSherlar/app/src/main/res/drawable/sms_item.xml" value="0.25493421052631576" />
+        <entry key="..\:/anp/SMSSherlar/app/src/main/res/layout/activity_main.xml" value="0.2361842105263158" />
+        <entry key="..\:/anp/SMSSherlar/app/src/main/res/layout/bottom_dialog.xml" value="0.16" />
+        <entry key="..\:/anp/SMSSherlar/app/src/main/res/layout/fragment_friends.xml" value="0.24473684210526317" />
+        <entry key="..\:/anp/SMSSherlar/app/src/main/res/layout/fragment_funny.xml" value="0.24473684210526317" />
+        <entry key="..\:/anp/SMSSherlar/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/anp/SMSSherlar/app/src/main/res/layout/fragment_like.xml" value="0.24473684210526317" />
+        <entry key="..\:/anp/SMSSherlar/app/src/main/res/layout/fragment_new.xml" value="0.24473684210526317" />
+        <entry key="..\:/anp/SMSSherlar/app/src/main/res/layout/fragment_parents.xml" value="0.24473684210526317" />
+        <entry key="..\:/anp/SMSSherlar/app/src/main/res/layout/fragment_sevgiragment.xml" value="0.24473684210526317" />
+        <entry key="..\:/anp/SMSSherlar/app/src/main/res/layout/fragment_soginch.xml" value="0.24473684210526317" />
+        <entry key="..\:/anp/SMSSherlar/app/src/main/res/layout/fragment_tabrik.xml" value="0.24473684210526317" />
+        <entry key="..\:/anp/SMSSherlar/app/src/main/res/layout/gg.xml" value="0.24473684210526317" />
+        <entry key="..\:/anp/SMSSherlar/app/src/main/res/layout/list_item.xml" value="0.14210526315789473" />
+        <entry key="..\:/anp/SMSSherlar/app/src/main/res/layout/send_sms.xml" value="0.24473684210526317" />
+        <entry key="..\:/anp/SMSSherlar/app/src/main/res/layout/sms_item.xml" value="0.24473684210526317" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
